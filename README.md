@@ -25,9 +25,9 @@ Esta aplicación fue desarrollada debido a la necesidad personal de mi mujer, qu
 <img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/contraccion.gif" alt="Contraction Tracker Logo" width="200" height="200">
 - El botón de "CONTRACCIÓN" si lo mantenemos presionado guarda la duracción de la contracción.
 <img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/contraccion_extendida.gif" alt="Contraction Tracker Logo" width="200" height="200">
-- El contenedor desplazable nos mostrará el registro actual que llevamos activo con un comodo scroll en el mismo.
+- El contenedor nos mostrará el registro actual que llevamos activo con un scroll en el mismo.
 <img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/registros.gif" alt="Contraction Tracker Logo" width="200" height="200">
-- El botón "EXPORTAR REGISTRO" nos genera automáticamente un PDF con los datos registrados hasta el momento, haciendolos de facil visualización y entendimiento en el mismo.
+- El botón "EXPORTAR REGISTRO" nos genera automáticamente un PDF con los datos registrados hasta el momento.
 <img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/exportar.gif" alt="Contraction Tracker Logo" width="200" height="200">
 - El botón "NUEVO REGISTRO" nos limpia el registro para comenzar uno nuevo si así se deseara.
 <img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/nuevo_registro.gif" alt="Contraction Tracker Logo" width="200" height="200">
