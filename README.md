@@ -21,7 +21,7 @@ Esta aplicación fue desarrollada debido a la necesidad personal de mi mujer, qu
 
 - Encontamos un logo con el nombre de la aplicación, este nos sirve además para recargar la página de forma rapida si fuera necesario.
 - El botón "CONTRACCIÓN" nos sirve para comenzar el registro de contracción, con su hora y minuto correspondiente, este mismo botón si se mantiene presionado almacenará los segundos hasta que se suelte para registrar la longitud de la contracción actual.
-<img src="https://drive.google.com/file/d/1wSR5h9-SokZcg_zs_QYFCHC24crvD5ZU/view?usp=drive_link" alt="Contraction Tracker Logo" width="200" height="200">
+<img src="https://drive.google.com/file/d/1wSR5h9-SokZcg_zs_QYFCHC24crvD5ZU/view" alt="Contraction Tracker Logo" width="200" height="200">
 
 - El contenedor desplazable nos mostrará el registro actual que llevamos activo con un comodo scroll en el mismo para no perder de vista los elementos de la página y evitar hacer scroll por la misma.
 - El botón "EXPORTAR REGISTRO" nos genera automáticamente un PDF con los datos registrados hasta el momento, haciendolos de facil visualización y entendimiento en el mismo.
