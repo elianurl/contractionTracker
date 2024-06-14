@@ -20,12 +20,17 @@ Esta aplicación fue desarrollada debido a la necesidad personal de mi mujer, qu
 ## Funcionamiento
 
 - Encontamos un logo con el nombre de la aplicación, este nos sirve además para recargar la página de forma rapida si fuera necesario.
-- El botón "CONTRACCIÓN" nos sirve para comenzar el registro de contracción, con su hora y minuto correspondiente, este mismo botón si se mantiene presionado almacenará los segundos hasta que se suelte para registrar la longitud de la contracción actual.
+<img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/public/contractionTracker.png" alt="Contraction Tracker Logo" width="300" height="200">
+- El botón "CONTRACCIÓN" nos sirve para comenzar el registro de contracción.
 <img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/contraccion.gif" alt="Contraction Tracker Logo" width="200" height="200">
-
-- El contenedor desplazable nos mostrará el registro actual que llevamos activo con un comodo scroll en el mismo para no perder de vista los elementos de la página y evitar hacer scroll por la misma.
+- El botón de "CONTRACCIÓN" si lo mantenemos presionado guarda la duracción de la contracción.
+<img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/contraccion_extendida.gif" alt="Contraction Tracker Logo" width="200" height="200">
+- El contenedor desplazable nos mostrará el registro actual que llevamos activo con un comodo scroll en el mismo.
+<img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/registros.gif" alt="Contraction Tracker Logo" width="200" height="200">
 - El botón "EXPORTAR REGISTRO" nos genera automáticamente un PDF con los datos registrados hasta el momento, haciendolos de facil visualización y entendimiento en el mismo.
+<img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/exportar.gif" alt="Contraction Tracker Logo" width="200" height="200">
 - El botón "NUEVO REGISTRO" nos limpia el registro para comenzar uno nuevo si así se deseara.
+<img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/nuevo_registro.gif" alt="Contraction Tracker Logo" width="200" height="200">
 
 ## Tecnologías Utilizadas
 
