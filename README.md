@@ -71,10 +71,6 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 4. Sube tus cambios a la rama (`git push origin feature/nueva-caracteristica`).
 5. Abre un Pull Request.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, por favor consulta el archivo `LICENSE`.
-
 ---
 
 Desarrollado por [ELIANDev0](https://github.com/eliandev0)
