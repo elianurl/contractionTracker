@@ -1,5 +1,3 @@
-// registros.js
-
 const express = require('express');
 const router = express.Router();
 const PDFDocument = require('pdfkit');
@@ -43,6 +41,8 @@ router.get('/exportar', (req, res) => {
         registrosPorDia[registro.fecha].push(registro);
     });
 
+    let registroNumero = 1;
+
     Object.keys(registrosPorDia).forEach(fecha => {
         const fechaSinEstilos = fecha.replace(/<\/?[^>]+(>|$)/g, "");
         doc.font('Helvetica-Bold').fontSize(18).fillColor('#ffa521').text(fechaSinEstilos, { align: 'left' });
@@ -52,8 +52,10 @@ router.get('/exportar', (req, res) => {
             if (index > 0) {
                 doc.moveDown();
             }
+            doc.font('Helvetica-Bold').fontSize(13).fillColor('#ffa521').text(`Registro ${registroNumero}`, { align: 'left' });
+            registroNumero++;
             doc.font('Helvetica-Bold').fontSize(12).fillColor('#9aa1d7').text(`Hora: ${registro.hora}:${registro.minutos}`, { continued: true });
-            doc.font('Helvetica').fontSize(12).fillColor('#7e83b0').text(` Duración: ${registro.duracion} segundos`);
+            doc.font('Helvetica-Bold').fontSize(12).fillColor('#7e83b0').text(` Duración: ${registro.duracion} segundos`);
         });
 
         doc.text('', { align: 'left' });
