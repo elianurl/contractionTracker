@@ -1,4 +1,4 @@
-![Contraction Tracker Logo](https://raw.githubusercontent.com/eliandev0/contractionTracker/main/public/contractionTracker.png)
+![Contraction Tracker Logo](https://raw.githubusercontent.com/elianurl/contractionTracker/main/public/contractionTracker.png)
 
 # Contraction Tracker
 
@@ -20,17 +20,17 @@ Esta aplicación fue desarrollada debido a la necesidad personal de mi mujer, qu
 ## Funcionamiento
 
 - Encontamos un logo con el nombre de la aplicación, este nos sirve además para recargar la página de forma rapida si fuera necesario.
-<img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/public/contractionTracker.png" alt="Contraction Tracker Logo" width="300" height="200">
+<img src="https://raw.githubusercontent.com/elianurl/contractionTracker/main/public/contractionTracker.png" alt="Contraction Tracker Logo" width="300" height="200">
 - El botón "CONTRACCIÓN" nos sirve para comenzar el registro de contracción.
-<img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/contraccion.gif" alt="Contraction Tracker Logo" width="200" height="200">
+<img src="https://raw.githubusercontent.com/elianurl/contractionTracker/main/resources/contraccion.gif" alt="Contraction Tracker Logo" width="200" height="200">
 - El botón de "CONTRACCIÓN" si lo mantenemos presionado guarda la duracción de la contracción.
-<img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/contraccion_extendida.gif" alt="Contraction Tracker Logo" width="200" height="200">
+<img src="https://raw.githubusercontent.com/elianurl/contractionTracker/main/resources/contraccion_extendida.gif" alt="Contraction Tracker Logo" width="200" height="200">
 - El contenedor nos mostrará el registro actual que llevamos activo con un scroll en el mismo.
-<img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/registros.gif" alt="Contraction Tracker Logo" width="200" height="200">
+<img src="https://raw.githubusercontent.com/elianurl/contractionTracker/main/resources/registros.gif" alt="Contraction Tracker Logo" width="200" height="200">
 - El botón "EXPORTAR REGISTRO" nos genera automáticamente un PDF con los datos registrados hasta el momento.
-<img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/exportar.gif" alt="Contraction Tracker Logo" width="200" height="200">
+<img src="https://raw.githubusercontent.com/elianurl/contractionTracker/main/resources/exportar.gif" alt="Contraction Tracker Logo" width="200" height="200">
 - El botón "NUEVO REGISTRO" nos limpia el registro para comenzar uno nuevo si así se deseara.
-<img src="https://raw.githubusercontent.com/eliandev0/contractionTracker/main/resources/nuevo_registro.gif" alt="Contraction Tracker Logo" width="200" height="200">
+<img src="https://raw.githubusercontent.com/elianurl/contractionTracker/main/resources/nuevo_registro.gif" alt="Contraction Tracker Logo" width="200" height="200">
 
 ## Tecnologías Utilizadas
 
@@ -41,7 +41,7 @@ Esta aplicación fue desarrollada debido a la necesidad personal de mi mujer, qu
 ## Instalación y Uso
 
 1. **Clona el Repositorio:**
-git clone https://github.com/eliandev0/ContractionTracker.git
+git clone https://github.com/elianurl/ContractionTracker.git
 cd ContractionTracker
 
 
@@ -73,5 +73,5 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ---
 
-Desarrollado por [ELIANDev0](https://github.com/eliandev0)
+Desarrollado por [ELIANurl](https://github.com/elianurl)
 
